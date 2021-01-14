@@ -1,0 +1,12 @@
+D:\20487C\Demo\demo2Lesso3_1\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.deps.json
+D:\20487C\Demo\demo2Lesso3_1\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.json
+D:\20487C\Demo\demo2Lesso3_1\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.dev.json
+D:\20487C\Demo\demo2Lesso3_1\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+D:\20487C\Demo\demo2Lesso3_1\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+D:\20487C\Demo\demo2Lesso3_1\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csprojAssemblyReference.cache
+D:\20487C\Demo\demo2Lesso3_1\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfoInputs.cache
+D:\20487C\Demo\demo2Lesso3_1\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfo.cs
+D:\20487C\Demo\demo2Lesso3_1\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csproj.CoreCompileInputs.cache
+D:\20487C\Demo\demo2Lesso3_1\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+D:\20487C\Demo\demo2Lesso3_1\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+D:\20487C\Demo\demo2Lesso3_1\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.genruntimeconfig.cache
